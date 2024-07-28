@@ -18,7 +18,7 @@ Jamboree Productions is an emerging film production company that wants to take a
 6. Are there any emerging trends in these factors that could influence a film's success?
 
 <p align="center">
-<img width="1334" alt="Screenshot 2024-07-27 at 10 31 08 AM" src="https://github.com/user-attachments/assets/dbf34d85-3024-4327-9cee-79afd1a51f4e">      <img src="04. Analysis/hist_orders_frequency_hod.png" width=48%>
+<img width=48% alt="Screenshot 2024-07-27 at 10 31 08 AM" src="https://github.com/user-attachments/assets/dbf34d85-3024-4327-9cee-79afd1a51f4e">      <img width=48% alt="Screenshot 2024-07-27 at 5 36 03 PM" src="https://github.com/user-attachments/assets/b28a693b-21f5-44fe-9ce1-71e51d81c5e4">
 </p>
 
 ## CONTENTS
