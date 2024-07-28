@@ -1,4 +1,10 @@
 # Jamboree Productions - Open Exploratory Analysis
+<p align="center">
+  <img width="614" alt="Screenshot 2024-07-20 at 2 31 08 PM" src="https://github.com/user-attachments/assets/4a4f139f-9c70-4a29-a62f-c972f58f9fa7">
+</p>
+<h3 align="center">
+  Initial exploratory analysis to derive insights and strategies for customer segmentation
+</h3>
 
 ## CONTEXT
 Instacart, an online grocery store that operates through an app, already has great sales, but they want to uncover more information about their sales patterns. Instacart stakeholders are most interested in the shopping behavior of the variety of customers in their database. They assume they can't target everyone with the same methods, and instead would like to target different customers with an applicable marketing campaign. This exploratory analysis will inform what this strategy might look like to ensure Instacart targets the right customer profiles with the appropriate products.
