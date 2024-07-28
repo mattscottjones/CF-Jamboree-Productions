@@ -61,3 +61,13 @@ For this project, the following Python libraries were used:
 * folium + json - geographic visualizations
 * sklearn - supervised/unsupervised machine learning
 
+
+## TABLEAU STORYBOARD
+[Predicting film success using The Movie Database](https://public.tableau.com/app/profile/mattscottjones/viz/JamboreeProductionsAnalysis/Story1?publish=yes)
+<p align="center">
+<img width=75% alt="Screenshot 2024-07-27 at 5 43 33 PM" src="https://github.com/user-attachments/assets/422b5059-28fd-4170-9784-8f254531d1b0">
+</p>
+
+
+## CITATION
+Asaniczka, and themoviedb.org. (2024). Full TMDB Movies Dataset 2024 (1M Movies) [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/9046273
