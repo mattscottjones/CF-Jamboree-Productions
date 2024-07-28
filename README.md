@@ -22,7 +22,7 @@ Instacart, an online grocery store that operates through an app, already has gre
 10. What differences can you find in **ordering habits of different customer profiles**?
 
 <p align="center">
-<img src="04. Analysis/By Profile/cluster_profile_top_depart.png" width=48%>      <img src="04. Analysis/hist_orders_frequency_hod.png" width=48%>
+<img width="1334" alt="Screenshot 2024-07-27 at 10 31 08 AM" src="https://github.com/user-attachments/assets/dbf34d85-3024-4327-9cee-79afd1a51f4e">      <img src="04. Analysis/hist_orders_frequency_hod.png" width=48%>
 </p>
 
 ## CONTENTS
